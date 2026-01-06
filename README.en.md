@@ -1,4 +1,5 @@
-🇷🇺 Русский | [🇬🇧 English version](README.md)
+🇬🇧 English | [🇷🇺 Русская версия](README.md)
+
 
 
 ## 🇬🇧 English Version
