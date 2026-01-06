@@ -1,3 +1,6 @@
+🇷🇺 Русский | [🇬🇧 English version](README.md)
+
+
 # A/B Test Analysis: Cookie Cats Retention
 
 ## Описание проекта
